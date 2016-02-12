@@ -1,3 +1,6 @@
+
+
+
 # absolute-beginner
 ## Testing and learning coding, a keen to learn beginner. 
 **If anyone knows any easy to learn sites or resources on the internet for coding please let me know!**  
@@ -8,4 +11,6 @@
 - <a href="http://www.onevalefan.co.uk" target="_blank">Port Vale</a>
 
 
-This page was attempted using [GitHub Pages](https://pages.github.com/).
+This page was attempted using [GitHub Pages](https://pages.github.com/).</p>
+
+
