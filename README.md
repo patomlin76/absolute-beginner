@@ -4,8 +4,8 @@
 *I know some HTML5 but mainly through Google Web Designer, guess it's a good place to start?*
 
 ##Adding links##
-- <a href="http://www.flickr.com/photos/paultomlin">Photography on Flickr</a>
-- <a href="http://www.onevalefan.co.uk">Port Vale</a>
+- <a href="http://www.flickr.com/photos/paultomlin" target="_blank">Photography on Flickr</a>
+- <a href="http://www.onevalefan.co.uk" target="_blank">Port Vale</a>
 
 
 This page was attempted using [GitHub Pages](https://pages.github.com/).
